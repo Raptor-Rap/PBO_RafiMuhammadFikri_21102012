@@ -144,7 +144,7 @@
     </children>
   </grid>
   <buttonGroups>
-    <group name="JK">
+    <group name="JK" bound="true">
       <member id="16585"/>
       <member id="8fe5e"/>
     </group>
